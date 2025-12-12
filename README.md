@@ -64,3 +64,11 @@ queries/
 
 docs/
   business_requirements.md         -- Business context and field definitions
+```
+---
+
+## 👤 Author
+
+Brigham (FireRust)
+- B.S. Software Engineering (in progress)
+- Full-time dad • Full-time student • Full-time builder
