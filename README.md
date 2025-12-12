@@ -2,16 +2,16 @@
 
 This project is a SQL-based reporting system for analyzing customer visit behavior across DVD store locations. It uses PostgreSQL tables, functions, triggers, and a stored procedure to transform raw rental data into business-friendly reports.
 
-## 🎯 Business Goal
+## 🎯 Business Problem
 
-Provide insight into questions like:
+DVD store managers need to understand:
 
-> How does customer visit behavior differ between store locations in terms of total visits, distinct customers, and repeat visits over time?
+- How many customers visit each store  
+- How many are **new vs. returning**  
+- Which stores attract frequent visitors  
+- How customer engagement changes **over time**
 
-The system supports:
-- Comparing how busy each store is
-- Understanding how many **unique vs. repeat** customers visit each store
-- Tracking customer engagement over time (new, occasional, frequent visitors)
+This system turns raw rental data into meaningful business insights.
 
 ## 🧱 Core Components
 
